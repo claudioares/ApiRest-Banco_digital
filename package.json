@@ -1,0 +1,26 @@
+{
+  "name": "apirest-banco_digital",
+  "version": "1.0.0",
+  "description": "Projeto piloto de um banco digital",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudioares/ApiRest-Banco_digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudioares/ApiRest-Banco_digital/issues"
+  },
+  "homepage": "https://github.com/claudioares/ApiRest-Banco_digital#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
